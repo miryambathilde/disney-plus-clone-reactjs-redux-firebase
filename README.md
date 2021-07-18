@@ -1,11 +1,12 @@
-<h1 align="center">Welcome to Disney Plus Clone 👋</h1>
-<p>
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-</p>
+# Welcome to Disney+ Clone 👋
+![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 
-> Project developed using React JS, Redux, styled componentsand firebase
+> Disney+ Clone webpage using ReactJS, Redux, Styted Components and Firebase as Database and hosting
+
+### 🏠 [Homepage](https://disneyplus-clone-3bb81.web.app/)
+
+### ✨ [Demo](https://disneyplus-clone-3bb81.web.app/)
 
 ## Install
 
