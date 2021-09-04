@@ -4,9 +4,9 @@
 
 > Disney+ Clone webpage using ReactJS, Redux, Styted Components and Firebase as Database and hosting
 
-### 🏠 [Homepage](https://disneyplus-clone-3bb81.web.app/)
+### 🏠 [Homepage](https://disney-clone-d1e27.web.app/home)
 
-### ✨ [Demo](https://disneyplus-clone-3bb81.web.app/)
+### ✨ [Demo](https://disney-clone-d1e27.web.app)
 
 ## Install
 
